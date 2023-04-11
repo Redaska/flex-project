@@ -8,3 +8,5 @@ Btw Happy ramadan.
 the images urls from Pexels i dont own none of them or do i claim to .
 
 https://www.istockphoto.com/photo/silhouette-of-person-standing-on-dock-during-sunset-gm1410229601-460503741?utm_campaign=srp_photos_noresults&utm_content=https%3A%2F%2Fwww.pexels.com%2Fsearch%2F9888656%2F&utm_medium=affiliate&utm_source=pexels&utm_term=9888656
+
+https://images.pexels.com/photos/3750779/pexels-photo-3750779.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
