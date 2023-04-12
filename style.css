@@ -91,3 +91,25 @@ button {
   margin: 40px;
   margin-bottom: 100px;
 }
+.grey-sect {
+  background-color: #e5e7eb;
+  padding: 50px;
+}
+.quote-text {
+  display: flex;
+  font-size: 36px;
+  font-style: italic;
+  color: #1f2937;
+  width: 1000px;
+  margin: auto;
+}
+.Author {
+  font-weight: bold;
+  color: #1f2937;
+  font-size: 20px;
+}
+.blank {
+  width: 1000px;
+  display: flex;
+  justify-content: flex-end;
+}
